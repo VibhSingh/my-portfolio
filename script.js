@@ -2,17 +2,17 @@ const projects = [
   {
       title: "Todo App",
       description: "A simple todo app built with MERN stack.",
-      url: "https://example.com/todo-app"
+      url: "https://vibhsingh.github.io/my-portfolio/"
   },
   {
       title: "Cricket Stadium Rating",
       description: "A site where users can rate cricket stadiums.",
-      url: "https://example.com/cricket-stadium-rating"
+      url: "https://vibhsingh.github.io/my-portfolio/"
   },
   {
       title: "Portfolio Site",
       description: "My personal portfolio site to showcase my projects.",
-      url: "https://example.com/portfolio-site"
+      url: "https://vibhsingh.github.io/my-portfolio/"
   }
 ];
 
